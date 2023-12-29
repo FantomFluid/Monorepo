@@ -163,7 +163,7 @@ Thanks goes to these wonderful people ([🐸](https://allcontributors.org/docs/e
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/enjoy_weaver/"><img src="https://avatars.githubusercontent.com/u/95450946?v=4" width="100px;" alt="Michael Weaver"/><br /><sub><b>Michael Weaver</b></sub></a><br /><a href="https://github.com/fantomfluid/monorepo/commits?author=enjoyweaver" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/enjoy_weaver/"><img src="https://avatars.githubusercontent.com/u/95450946?v=4" width="100px;" alt="Michael Weaver"/><br /><sub><b>Michael Weaver</b></sub></a><br /><a href="https://github.com/fantomfluid/monorepo/commits?author=enjoyweaver" title="Code">Commits 💻</a></td>
       
   </tbody>
 </table>
