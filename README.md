@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to FantomFluid protocol-monorepo 👋</h1>
+<h1 align="center">Welcome to the FantomFluid Monorepo 👋</h1>
 
 <p>
   <a href="#superfluid-financeethereum-contracts" target="_blank">
@@ -20,8 +20,8 @@
     <img alt="GitHub package.json version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/v/superfluid-finance/protocol-monorepo?filename=packages%2Fhot-fuzz%2Fpackage.json&label=hot-fuzz"> 
   </a>
   <br>
-  <a href="https://twitter.com/Superfluid_HQ/status/" target="_blank">
-    <img alt="Twitter: Superfluid_HQ" src="https://img.shields.io/twitter/follow/Superfluid_HQ.svg?style=social" />
+  <a href="https://twitter.com/fantomfluid/" target="_blank">
+    <img alt="Twitter: FantomFluid" src="https://img.shields.io/twitter/follow/FantomFluid.svg?style=social" />
   </a>
   <a href="https://www.codetriage.com/superfluid-finance/protocol-monorepo">
       <img src="https://www.codetriage.com/superfluid-finance/protocol-monorepo/badges/users.svg">
@@ -169,7 +169,7 @@ Thanks goes to these wonderful people ([🐸](https://allcontributors.org/docs/e
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="EnjoyWeaver.X/"><img src="https://avatars.githubusercontent.com/u/41972979?v=4?s=100" width="100px;" alt="Michael Weaver"/><br /><sub><b>Michael Weaver</b></sub></a><br /><a href="https://github.com/fantomfluid/protocol-monorepo/commits?author=enjoyweaver" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/enjoy_weaver/"><img src="https://avatars.githubusercontent.com/u/95450946?v=4" width="100px;" alt="Michael Weaver"/><br /><sub><b>Michael Weaver</b></sub></a><br /><a href="https://github.com/fantomfluid/monorepo/commits?author=enjoyweaver" title="Code">💻</a></td>
       
   </tbody>
 </table>
