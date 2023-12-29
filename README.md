@@ -30,24 +30,22 @@
 
 > Contracts and resources for the FantomFluid Protocol
 
-### 🏠 [Homepage](https://superfluid.finance)
+### 🏠 [Homepage]
 
 ### ✨ [Superfluid App](https://app.superfluid.finance/)
 
 ### 📖 [Docs](https://docs.superfluid.finance)
 
-The FantomFluid Protocol is a framework that realizes the real-time finance vision
+The FantomFluid Protocol will be a framework that realizes the real-time finance vision
 where user accounts are connected together, and transactions can happen between
 user accounts instantaneously as a result.
 
-This repository implements the FantomFluid protocol as Ethereum contracts. It also
+This repository implements the FantomFluid protocol as Fantom contracts. It also
 contains a Javascript SDK for developing Web3 applications using the FantomFluid
 protocol.
 
-For technical document, references and tutorials, etc, refer to the
-[docs site](http://docs.superfluid.finance/).
 
-## Packages
+## These will be the future packages
 
 #### [`@superfluid-finance/ethereum-contracts`](https://github.com/superfluid-finance/protocol-monorepo/tree/dev/packages/ethereum-contracts)
 
@@ -130,7 +128,7 @@ your FantomFluid smart contracts applications, including [Super Apps](https://do
 
 Official subgraph for the FantomFluid Protocol.
 
-#### [`@superfluid-finance/js-sdk`](https://github.com/superfluid-finance/protocol-monorepo/tree/release-js-sdk-stable/packages/js-sdk)
+#### `to follow`
 
 <p>
   <a href="https://www.npmjs.com/package/@superfluid-finance/js-sdk" target="_blank">
@@ -141,11 +139,7 @@ Official subgraph for the FantomFluid Protocol.
   </a>
 </p>
 
-:warning: This package is fully deprecated, use sdk-core instead :warning:
 
-You can get the last release of js-sdk at the branch [here](https://github.com/superfluid-finance/protocol-monorepo/tree/release-js-sdk-stable/packages/js-sdk).
-
-Javascript SDK for building with FantomFluid Protocol.
 
 ## Bug Bounty
 
